@@ -1,0 +1,19 @@
+name = "ok"
+get = "v_get"
+begin = "v_begin"
+end = "v_end"
+size = "v_size"
+indices = "v_indices"
+key = "v_key"
+return = "v_return"
+
+m_0 = "v_m0"
+m_1 = "v_m1"
+m_10 = "v_m10"
+m_00 = "v_m00"
+m_01 = "v_m01"
+m_awdwa = "v_mawdwa"
+
+"_Xabc" = "v_upper"
+"has__dunder" = "v_dunder"
+

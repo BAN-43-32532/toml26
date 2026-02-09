@@ -1,0 +1,6 @@
+name = "Orange"
+i = 42
+ok = true
+
+[tbl]
+x = 7

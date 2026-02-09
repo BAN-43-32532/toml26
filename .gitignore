@@ -1,0 +1,8 @@
+build/
+.idea/
+.vs/
+.vscode/
+build
+_backup
+_archive
+CMakePresets.json

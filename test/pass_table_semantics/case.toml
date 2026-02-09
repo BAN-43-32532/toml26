@@ -1,0 +1,10 @@
+fruit.apple.color = "red"
+fruit.apple.taste.sweet = true
+[fruit.apple.texture]
+smooth = true
+
+[x.y.z.w]
+v = 1
+
+[x]
+name = "rootx"

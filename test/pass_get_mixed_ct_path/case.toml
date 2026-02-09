@@ -1,0 +1,6 @@
+nodes = [
+  { name = "n0", vals = [10, 20] },
+  { name = "n1", vals = [30, 40] },
+]
+flag = true
+

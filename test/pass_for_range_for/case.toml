@@ -1,0 +1,8 @@
+name = "Orange"
+i = 42
+arr = [1, ["two", 2], true, [3.5, [7]]]
+
+[site]
+google = true
+nested.x = 7
+"google.com" = true

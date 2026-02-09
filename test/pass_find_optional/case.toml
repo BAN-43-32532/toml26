@@ -1,0 +1,6 @@
+id = 42
+name = "orange"
+arr = ["a", "b", "c"]
+
+[tbl]
+x = 7

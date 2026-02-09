@@ -1,0 +1,11 @@
+[[products]]
+name = "Hammer"
+sku = 1
+
+[[products]]
+name = "Nail"
+sku = 2
+color = "gray"
+
+[products.dim]
+len = 3

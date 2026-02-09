@@ -1,0 +1,9 @@
+[[items]]
+name = "a"
+[items.meta]
+v = 1
+
+[[items]]
+name = "b"
+[items.meta]
+v = 2

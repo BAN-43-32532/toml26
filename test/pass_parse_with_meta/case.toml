@@ -1,0 +1,11 @@
+#name_doc
+name = "Orange" #name_trail
+physical.color = "orange"
+physical.shape = "round"
+site = { enabled = true } #site_trail
+nums = [1, 2, 3]
+
+#contributors_doc
+[[contributors]] #contributors_header_trail
+name = "Foo" #contrib_name_trail
+#eof_doc

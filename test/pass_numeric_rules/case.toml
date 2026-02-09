@@ -1,0 +1,10 @@
+deci = +99
+zero = -0
+hexv = 0xDEAD_beef
+octv = 0o755
+binv = 0b1010_0011
+fe = 1e06
+pi = 3.1415
+negf = -2E-2
+pinf = +inf
+nnan = -nan

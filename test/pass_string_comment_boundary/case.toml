@@ -1,0 +1,3 @@
+a = "x#y" # comment
+b = 'p#q' # comment
+c = "v"   # comment

@@ -1,0 +1,5 @@
+a = "line1\nline2"
+b = "tab\tend"
+c = "quote: \" and slash: \\"
+d = "hex:\x41"
+e = "esc:\e["

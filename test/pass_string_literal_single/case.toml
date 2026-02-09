@@ -1,0 +1,3 @@
+path = 'C:\Users\dev\file.txt'
+hash = '#not_comment'
+backslash = 'a\b\c'

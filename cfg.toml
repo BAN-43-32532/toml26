@@ -1,0 +1,20 @@
+"name" = "Orange"
+i = 42
+f = 1.25e2
+b = true
+odt = 2010-02-03 14:15:16.123456789+08:00
+ldt = 2010-02-03T14:15
+ld = 2010-02-03
+lt = 14:15
+physical.color = "orange"
+physical.shape = "round"
+arr = [1, ["two", 2], true, [3.5, [7]]]
+arr_tables = [{name = "n0", score = 10}, {name = "n1", score = 11}]
+mix = [{a = [{b = 1}, {b = 2}]}, {a = [{b = 3}]}]
+"google.com" = true
+"utf8_键" = 77
+
+[site]
+google = true
+nested.x = 7
+"google.com" = true
